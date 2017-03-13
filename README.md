@@ -3,7 +3,7 @@
 TestTest
 
 ```python
-res = map(len, [1, 2, 3])
+res = map(len, ['a', 'bc', 'def'])
 ```
 
 ```javascript

@@ -1,7 +1,5 @@
 # miscellaneous
 
-TestTest
-
 ```python
 res = map(len, ['a', 'bc', 'def'])
 ```
